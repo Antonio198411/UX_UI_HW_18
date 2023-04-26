@@ -1,0 +1,42 @@
+.nav{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.a{
+    width: 23%;
+        padding: 1%;
+}
+
+.nav{
+    width: 73%;
+    padding: 1%;
+}
+
+.ul{
+    width: 50%;
+    margin-left:auto;
+}
+
+.img{
+    text-align: center;
+}
+
+.div{
+    height: 600px;
+    padding: 25px;
+    
+}
+
+.footer{
+    background-color: #373738;
+}
+ .ul{
+    padding: center;
+    display: inline-block;
+    vertical-align: top;
+ }
+
+ .il{
+    padding: center;
+ }
